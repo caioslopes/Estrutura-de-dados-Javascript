@@ -1,5 +1,5 @@
 import { DoublyNode } from "../utils/Node";
-import { defaultEquals } from "../utils/utils";
+import { defaultEquals } from "../utils/utils.js";
 import { LinkedList } from "./LinkedList";
 
 export class DoublyLinkedList extends LinkedList {
